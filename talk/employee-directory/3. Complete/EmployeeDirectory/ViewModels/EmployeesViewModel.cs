@@ -27,7 +27,9 @@ namespace EmployeeDirectory
 				new Employee { Name = "Joseph Hill", Title = "VP of Developer Relations", PhotoUrl = "https://www.gravatar.com/avatar/f763ec6935726b7f7715808828e52223.jpg?s=256" },
 				new Employee { Name = "James Montemagno", Title = "Developer Evangelist", PhotoUrl = "http://www.gravatar.com/avatar/7d1f32b86a6076963e7beab73dddf7ca?s=256" },
 				new Employee { Name = "Pierce Boggan", Title = "Software Engineer", PhotoUrl = "https://avatars3.githubusercontent.com/u/1091304?v=3&s=460" },
-			};
+                new Employee { Name = "Nick Landry", Title = "Microsoft Technical Evangelist & Xamarin Fanboy", PhotoUrl = "https://devintxcontent.blob.core.windows.net/showcontent/speakers/Nick_Landry_200x200.jpg" },
+
+            };
 
 			RegisterEmployees();
 		}
